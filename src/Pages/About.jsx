@@ -214,7 +214,7 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-             Seorang anak SMP yang memiliki ketertarikan besar pada kemajuan teknologi. Saya berfokus pada menciptakan pengalaman digital yang menarik dan selalu berusaha memberikan solusi terbaik dalam setiap proyek yang saya kerjakan.
+             Seorang anak yang memiliki ketertarikan besar pada kemajuan teknologi. Saya berfokus pada menciptakan pengalaman digital yang menarik dan selalu berusaha memberikan solusi terbaik dalam setiap proyek yang saya kerjakan.
             </p>
 
                {/* Quote Section */}
